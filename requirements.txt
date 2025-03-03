@@ -1,0 +1,8 @@
+torch
+torchvision
+Pillow
+numpy
+argparse
+yaml
+matplotlib
+plotly
