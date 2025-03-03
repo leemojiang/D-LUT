@@ -1,2 +1,2 @@
 # D-LUT
-Coming soon at WACV2025. 
+WACV2025
